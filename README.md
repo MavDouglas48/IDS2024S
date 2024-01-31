@@ -4,8 +4,8 @@
 **Name:** Douglas Schmidt  
 **School Id:** 1001804815  
 **Email:** dms4815@mavs.uta.edu  
-**Department:** UTA
-**University:** 
+**Department:** Computer Science  
+**University:** UTA  
 **Level:** Freshman  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](https://www.cdslab.org)  
