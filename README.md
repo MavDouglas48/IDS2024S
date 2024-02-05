@@ -19,4 +19,7 @@ This repository contains my homework, quizzes, and virtually every effort that I
 
 - [exam](./exam): This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
 
+  >I hate my procrastination habits but i'll stop them tommorow  
+  >Douglas
+
 
