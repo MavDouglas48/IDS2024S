@@ -23,3 +23,9 @@ This repository contains my homework, quizzes, and virtually every effort that I
   >Douglas
 
 
+  For questions and troubleshooting contact,
+  Douglas Schmidt  
+  dms4815@mavs.uta.edu
+  
+
+
