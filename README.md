@@ -9,7 +9,7 @@
 **Level:** Freshman  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](https://www.cdslab.org)  
-**Photo:** ![doug work in progress](https://github.com/MavDouglas48/IDS2024S/assets/157654744/88fc09b9-9ca3-4523-a9c8-5de80fb411ce)
+**Photo:** ![doug work in progress](Selfpic.png)
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for <course name>. The structure of the project is the following:
 
