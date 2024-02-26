@@ -7,7 +7,7 @@
 6-A bit  
 7-Assembly Language, yes
 8-Fortran, about 7 or created in 1957  
-9-FORTRAN, Fortran 2nd,c and c++ 3rd, Matlab,R , Python 4th,  
+9-FORTRAN, Fortran,c and c++ 3rd, Matlab,R , Python 4th,  
 10-C-1970,C++-1980,Python-1990,R-1990
 11-BCPL  
 12-C  
