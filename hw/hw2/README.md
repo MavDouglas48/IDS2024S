@@ -11,16 +11,19 @@
 10-C-1970,C++-1980,Python-1990,R-1990
 11-BCPL  
 12-C  
-13-Fortran for MATLAB and ABC for Python 
-14-Syntax errors,when the code is written incorrect,Runtime errors,memory leaks,Semantic errors,2+2=6  
-15-Runtime errors  
-16-
-17-
-18-  
-19-Create a code, run the code, and receive the result  
-20-1 Semantic Error should be mkdir instead of rm -rf,2 Semantic error should be cd instead of mv,3 Syntax error touch is mispelled,4 runtime error the newfile does not have its format  
-mkdir ../subdir  
-cd ../subdir  
-touch newfile.md  
-tac newfile.md  
-21-an exponential function has its variable in its exponent, but a power function has its variable in its base
+13-Fortran for MATLAB and ABC for Python  
+14-Registers  
+15-bit   
+16-80 times  
+17-twenty times  
+18-400 times    
+19-act as switches  
+20-they result in lower speed and increase power consumption  
+21-Fetch,decode,execute  
+22-yes, there are other factos such as a worse internet conenction or if a hard drive or SSD is in use  
+23-memory,its become less efficant as we improve them  
+24-Moore's law works by adding more switches and dennard and MOSFET work to make computers smaller  
+25-64,2080, .3 pounds  
+26-9,223,372,036,854,775,808/18,446,744,073,709,551,615/2,398,000,000,000,000/about 1,500 years  
+27-Take in code,evaluate it,run it  
+28-If the exponent is a variable or a constant  
