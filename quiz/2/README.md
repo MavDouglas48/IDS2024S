@@ -1,7 +1,7 @@
 1-registers  
 2-To reduce access time   
 3-Hard disk drive  
-4-registers,cache memory,main memory,ssd
+4-registers,cache memory,main memory,ssd  
 5-bit  
 6-Because the computer only understands on and off signals  
 7-Less than a nano second  
@@ -25,7 +25,7 @@
 25-B  
 26-C  
 27-Fortran  
-28-Logarthim is function, 2 to the power 3
+28-Logarthim is function, 2 to the power 3  
 29-1,683, by calculating it out one at a time  
 30-A magnetic tape lasts longer, Hard disk drive lasts 5 years and a magnetic tape lasts 10 years
 31-FERMIAC  
