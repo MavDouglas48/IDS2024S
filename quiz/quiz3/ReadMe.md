@@ -1,1 +1,1 @@
-
+1.Prediction, creating an idea from natural phenomena, Observational data, take what data we can from our seneses, model construction, creating an example to test our data,calibration and validition, proving prediction using data and model
