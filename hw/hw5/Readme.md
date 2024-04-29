@@ -12,5 +12,8 @@
 11. qualitative, distinguish discrete items or groups that do not have an intrinsic order, / sequential, to represent data values / diverging, visualize the deviation of data values in one of two directions relative to a neutral midpoint / accent,  highlight specific elements in the data
 12. The data starts before the year 0
 13. The first set
-14. 
+14. 2. Honolulu is hotter, 3. Honolulu has less deviation, 4. For honolulu you have y = 0.0259x + 25.327 and R² = 0.0031 and duluth has y = 0.0365x - 32.878 R² = 0.0002, they have negative corelation, the two cities would also have negative corelation because sidney also has a very warm climate
+15. 
+
+
    
