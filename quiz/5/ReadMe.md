@@ -16,4 +16,5 @@
 16. Accent color scheme is being used.
 17. Its going largest to smallest when it is more effective to go smallest to largest.
 18. [18 Chart.xlsx](https://github.com/MavDouglas48/IDS2024S/files/15204404/18.Chart.xlsx)
+19. According to the chart it is more likely for the earth to get warmer, it is likely for the earth to hit 2 Celsius
 
