@@ -10,4 +10,14 @@
 10. Frequentist, as it requires an abundant source of information and there is no abundant source of information about God.
 11. The data starts before the Year 0.
 12. Because computers only recognize the on and off signal represented by the 1 and 0.
-13. 
+13. The BCPL,Basic Combined Computing Language
+14. Fortran
+15. Using distributive you can show that -c(-a+-b)=ca+cb and -c + (-a-b)=(-c+-a)(-c+-b)
+17. A∨-Ais true. If -Ais true then A->B is true by reversing it therfore -B->-A is true
+18. Deductive and plausible reasoning, Deductive would be it is raining because it is cloudy and plausible would be it is going to rain because the clouds are turning grey and grey clouds indicate rain
+19. It means they have the same value
+20. ![Question 19](https://github.com/MavDouglas48/IDS2024S/assets/157654744/7904c212-37d0-4309-a104-f8a08f2791fd)  
+21. No
+22. 3,366,by adding them all together in a calcualtor
+
+    
